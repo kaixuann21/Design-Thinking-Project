@@ -26,11 +26,11 @@ This can help ADHD student to reduce cognitive load and supports emotion regulat
 
 ## 🧪 Design Thinking Evidence
 This repository includes:
--Project report
--MindAnchor Mobile Application Prototype
--Physical Focus Regulation Tool Prototype 
--Group meeting and discussion evidence
--Reflection
+- Project report
+- MindAnchor Mobile Application Prototype
+- Physical Focus Regulation Tool Prototype 
+- Group meeting and discussion evidence
+- Reflection
 
 ## Video Link
 https://youtu.be/_G865_Z1zpM?si=fUAEKEDI1AG30Z9z
