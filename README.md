@@ -1,6 +1,8 @@
 # Design-Thinking-Project : MindAnchor
 **Course:** Technology and Information System (SECP1513)
 
+**Group:** 7
+
 ## 🧠 Project Overview
 MindAncor is a Design Thinking Project to help ADHD students to stay focus and restlessness during learning and studying. 
 It is a mobile application connected with a physical Focus Regulation tool via Blueetooth and without using tracking system or performance pressure. 
